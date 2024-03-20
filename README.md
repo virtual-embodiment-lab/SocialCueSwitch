@@ -42,7 +42,7 @@ Customize the `SocialCueSwitch` script to fit your project needs:
 1. **Arrow Indicator**: Configure the arrow prefab to point towards the current speaking avatar, adjusting its position and rotation as needed.
 2. **Captions**: Set up captions to display based on social cues, customizing their appearance and display duration.
 
-![visualtoaudio](images/visualtoaudio.png)
+![visualtoaudio](Images/visualtoaudio.png)
 
 ## Testing
 
